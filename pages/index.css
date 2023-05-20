@@ -1,0 +1,8 @@
+/* normalize.css - сброс CSS стилей */
+@import url("../vendor/normalize.css");
+
+/* Подключение группы шрифтов Inter */
+@import url("../vendor/fonts/Inter/Inter.css");
+
+/* page */
+@import url("../blocks/page/page.css");
