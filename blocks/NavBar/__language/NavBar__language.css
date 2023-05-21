@@ -1,0 +1,27 @@
+.NavBar__language {
+  list-style-type: none;
+  display: inline-block;
+  font-family: 'Inter';
+  font-size: 18px;
+  line-height: 20px;
+  font-style: normal;
+  font-weight: 400;
+  color: #fff;
+  margin-right: 18px;
+  transition: opacity .5s ease-in-out;
+}
+
+.NavBar__language:hover {
+  opacity: .8;
+}
+
+.NavBar__language:last-of-type {
+  margin-right: 0;
+}
+
+@media screen and (min-width: 576px) {
+  .NavBar__language {
+    font-size: 24px;
+    line-height: 28px;
+  }
+}
