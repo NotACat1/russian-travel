@@ -11,3 +11,9 @@
   margin-top: 0;
   margin-bottom: 0;
 }
+
+@media screen and (min-width: 992px) {
+  .header__img-subtitle {
+    margin-left: 0;
+  }
+}

@@ -4,8 +4,15 @@
   margin: 0 auto;
 }
 
+@media screen and (min-width: 992px) {
+  .header {
+    width: 90%;
+  }
+}
+
 @media screen and (min-width: 1200px) {
   .header {
     padding-top: 56px;
+    width: 77%;
   }
 }
