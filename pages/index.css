@@ -14,3 +14,10 @@
 @import url("../blocks/NavBar/__languages/NavBar__languages.css");
 @import url("../blocks/NavBar/__language/NavBar__language.css");
 @import url("../blocks/NavBar/__language/_active/NavBar__language_active.css");
+
+/* header */
+@import url("../blocks/header/header.css");
+@import url("../blocks/header/__title/header__title.css");
+@import url("../blocks/header/__subtitle/header__subtitle.css");
+@import url("../blocks/header/__img/header__img.css");
+@import url("../blocks/header/__img-subtitle/header__img-subtitle.css");

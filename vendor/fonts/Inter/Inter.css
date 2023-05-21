@@ -190,7 +190,7 @@
 /* Inter Black Italic */
 @font-face {
   font-family: 'Inter';
-  font-style: normal;
+  font-style: italic;
   font-weight: 900;
   src: url(./Inter-BlackItalic.woff2) format('woff2'),
        url(./Inter-BlackItalic.woff) format('woff'),

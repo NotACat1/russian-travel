@@ -1,0 +1,27 @@
+.header__subtitle {
+  width: 288px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #FFF;
+  margin: 0 auto;
+  margin-bottom: 40px;
+}
+
+@media screen and (min-width: 576px) {
+  .header__subtitle {
+    width: 640px;
+    font-size: 30px;
+    line-height: 36px;
+    margin-bottom: 56px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .header__subtitle {
+    margin-bottom: 64px;
+  }
+}
