@@ -1,0 +1,19 @@
+.places__list {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+  display: grid;
+}
+
+@media screen and (min-width: 768px) {
+  .places__list {
+    row-gap: 73px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .places__list{
+    row-gap: 80px;
+  }
+}

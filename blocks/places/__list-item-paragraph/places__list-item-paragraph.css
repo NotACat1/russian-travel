@@ -1,0 +1,21 @@
+.places__list-item-paragraph {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #FFF;
+  margin-top: 0;
+  margin-bottom: 25px;
+}
+
+.places__list-item-paragraph:last-of-type {
+  margin-bottom: 0;
+}
+
+@media screen and (min-width: 992px) {
+  .places__list-item-paragraph {
+    font-size: 18px;
+    line-height: 29px;
+  }
+}

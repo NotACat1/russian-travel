@@ -1,24 +1,24 @@
-.intro {
+.places {
   padding-top: 64px;
   padding-left: 5%;
   padding-right: 5%;
 }
 
 @media screen and (min-width: 768px) {
-  .intro {
+  .places {
     padding-top: 88px;
   }
 }
 
 @media screen and (min-width: 992px) {
-  .intro {
+  .places {
     padding-top: 92px;
-    width: 690px;
   }
 }
 
 @media screen and (min-width: 1200px) {
-  .intro {
+  .places {
     padding-left: 11.5%;
+    padding-right: 11.5%;
   }
 }

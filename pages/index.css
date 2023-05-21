@@ -34,5 +34,13 @@
 @import url("../blocks/photo-grid/photo-grid.css");
 @import url("../blocks/photo-grid/__list-item/photo-grid__list-item.css");
 
-
-
+/* places */
+@import url("../blocks/places/places.css");
+@import url("../blocks/places/__list/places__list.css");
+@import url("../blocks/places/__list-item/places__list-item.css");
+@import url("../blocks/places/__list-item-header/places__list-item-header.css");
+@import url("../blocks/places/__list-item-href/places__list-item-href.css");
+@import url("../blocks/places/__list-item-img/places__list-item-img.css");
+@import url("../blocks/places/__list-item-paragraph/places__list-item-paragraph.css");
+@import url("../blocks/places/__list-item-href-text/places__list-item-href-text.css");
+@import url("../blocks/places/__list-item-BlockHref/places__list-item-BlockHref.css");

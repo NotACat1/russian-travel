@@ -1,0 +1,14 @@
+.places__list-item-href {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  color: #FFF;
+  width: fit-content;
+}
+
+.places__list-item-href:hover {
+  opacity: .8;
+}
