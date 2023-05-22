@@ -6,9 +6,7 @@
   font-style: normal;
   font-weight: 100;
   src: url(./Inter-ThinBETA.woff2) format('woff2'),
-       url(./Inter-ThinBETA.woff) format('woff'),
-       url(./Inter-ThinBETA.eot) format('eot'),
-       url(./Inter-ThinBETA.truetype) format('truetype');
+       url(./Inter-ThinBETA.woff) format('woff');
 }
 
 /* Inter Thin Italic BETA */
@@ -17,9 +15,7 @@
   font-style: italic;
   font-weight: 100;
   src: url(./Inter-ThinItalicBETA.woff2) format('woff2'),
-       url(./Inter-ThinItalicBETA.woff) format('woff'),
-       url(./Inter-ThinItalicBETA.eot) format('eot'),
-       url(./Inter-ThinItalicBETA.truetype) format('truetype');
+       url(./Inter-ThinItalicBETA.woff) format('woff');
 }
 
 /* Inter Extra Light BETA */
@@ -28,9 +24,7 @@
   font-style: normal;
   font-weight: 200;
   src: url(./Inter-ExtraLightBETA.woff2) format('woff2'),
-       url(./Inter-ExtraLightBETA.woff) format('woff'),
-       url(./Inter-ExtraLightBETA.eot) format('eot'),
-       url(./Inter-ExtraLightBETA.truetype) format('truetype');
+       url(./Inter-ExtraLightBETA.woff) format('woff');
 }
 
 /* Inter Extra Light Italic BETA */
@@ -39,9 +33,7 @@
   font-style: italic;
   font-weight: 200;
   src: url(./Inter-ExtraLightItalicBETA.woff2) format('woff2'),
-       url(./Inter-ExtraLightItalicBETA.woff) format('woff'),
-       url(./Inter-ExtraLightItalicBETA.eot) format('eot'),
-       url(./Inter-ExtraLightItalicBETA.truetype) format('truetype');
+       url(./Inter-ExtraLightItalicBETA.woff) format('woff');
 }
 
 /* Inter Light BETA */
@@ -50,9 +42,7 @@
   font-style: normal;
   font-weight: 300;
   src: url(./Inter-LightBETA.woff2) format('woff2'),
-       url(./Inter-LightBETA.woff) format('woff'),
-       url(./Inter-LightBETA.eot) format('eot'),
-       url(./Inter-LightBETA.truetype) format('truetype');
+       url(./Inter-LightBETA.woff) format('woff');
 }
 
 /* Inter Light Italic BETA */
@@ -61,9 +51,7 @@
   font-style: italic;
   font-weight: 300;
   src: url(./Inter-LightItalicBETA.woff2) format('woff2'),
-       url(./Inter-LightItalicBETA.woff) format('woff'),
-       url(./Inter-LightItalicBETA.eot) format('eot'),
-       url(./Inter-LightItalicBETA.truetype) format('truetype');
+       url(./Inter-LightItalicBETA.woff) format('woff');
 }
 
 /* Inter Regular */
@@ -72,9 +60,7 @@
   font-style: normal;
   font-weight: 400;
   src: url(./Inter-Regular.woff2) format('woff2'),
-       url(./Inter-Regular.woff) format('woff'),
-       url(./Inter-Regular.eot) format('eot'),
-       url(./Inter-Regular.truetype) format('truetype');
+       url(./Inter-Regular.woff) format('woff');
 }
 
 /* Inter Italic */
@@ -83,9 +69,7 @@
   font-style: italic;
   font-weight: 400;
   src: url(./Inter-Italic.woff2) format('woff2'),
-       url(./Inter-Italic.woff) format('woff'),
-       url(./Inter-Italic.eot) format('eot'),
-       url(./Inter-Italic.truetype) format('truetype');
+       url(./Inter-Italic.woff) format('woff');
 }
 
 /* Inter Medium */
@@ -94,9 +78,7 @@
   font-style: normal;
   font-weight: 500;
   src: url(./Inter-Medium.woff2) format('woff2'),
-       url(./Inter-Medium.woff) format('woff'),
-       url(./Inter-Medium.eot) format('eot'),
-       url(./Inter-Medium.truetype) format('truetype');
+       url(./Inter-Medium.woff) format('woff');
 }
 
 /* Inter Medium Italic */
@@ -105,9 +87,7 @@
   font-style: italic;
   font-weight: 500;
   src: url(./Inter-MediumItalic.woff2) format('woff2'),
-       url(./Inter-MediumItalic.woff) format('woff'),
-       url(./Inter-MediumItalic.eot) format('eot'),
-       url(./Inter-MediumItalic.truetype) format('truetype');
+       url(./Inter-MediumItalic.woff) format('woff');
 }
 
 /* Inter Semi Bold */
@@ -116,9 +96,7 @@
   font-style: normal;
   font-weight: 600;
   src: url(./Inter-SemiBold.woff2) format('woff2'),
-       url(./Inter-SemiBold.woff) format('woff'),
-       url(./Inter-SemiBold.eot) format('eot'),
-       url(./Inter-SemiBold.truetype) format('truetype');
+       url(./Inter-SemiBold.woff) format('woff');
 }
 
 /* Inter Semi Bold Italic */
@@ -127,9 +105,7 @@
   font-style: italic;
   font-weight: 600;
   src: url(./Inter-SemiBoldItalic.woff2) format('woff2'),
-       url(./Inter-SemiBoldItalic.woff) format('woff'),
-       url(./Inter-SemiBoldItalic.eot) format('eot'),
-       url(./Inter-SemiBoldItalic.truetype) format('truetype');
+       url(./Inter-SemiBoldItalic.woff) format('woff');
 }
 
 /* Inter Bold */
@@ -138,9 +114,7 @@
   font-style: normal;
   font-weight: 700;
   src: url(./Inter-Bold.woff2) format('woff2'),
-       url(./Inter-Bold.woff) format('woff'),
-       url(./Inter-Bold.eot) format('eot'),
-       url(./Inter-Bold.truetype) format('truetype');
+       url(./Inter-Bold.woff) format('woff');
 }
 
 /* Inter Bold Italic */
@@ -149,9 +123,7 @@
   font-style: italic;
   font-weight: 700;
   src: url(./Inter-BoldItalic.woff2) format('woff2'),
-       url(./Inter-BoldItalic.woff) format('woff'),
-       url(./Inter-BoldItalic.eot) format('eot'),
-       url(./Inter-BoldItalic.truetype) format('truetype');
+       url(./Inter-BoldItalic.woff) format('woff');
 }
 
 /* Inter Extra Bold */
@@ -160,9 +132,7 @@
   font-style: normal;
   font-weight: 800;
   src: url(./Inter-ExtraBold.woff2) format('woff2'),
-       url(./Inter-ExtraBold.woff) format('woff'),
-       url(./Inter-ExtraBold.eot) format('eot'),
-       url(./Inter-ExtraBold.truetype) format('truetype');
+       url(./Inter-ExtraBold.woff) format('woff');
 }
 
 /* Inter Extra Bold Italic */
@@ -171,9 +141,7 @@
   font-style: italic;
   font-weight: 800;
   src: url(./Inter-ExtraBoldItalic.woff2) format('woff2'),
-       url(./Inter-ExtraBoldItalic.woff) format('woff'),
-       url(./Inter-ExtraBoldItalic.eot) format('eot'),
-       url(./Inter-ExtraBoldItalic.truetype) format('truetype');
+       url(./Inter-ExtraBoldItalic.woff) format('woff');
 }
 
 /* Inter Black */
@@ -182,9 +150,7 @@
   font-style: normal;
   font-weight: 900;
   src: url(./Inter-Black.woff2) format('woff2'),
-       url(./Inter-Black.woff) format('woff'),
-       url(./Inter-Black.eot) format('eot'),
-       url(./Inter-Black.truetype) format('truetype');
+       url(./Inter-Black.woff) format('woff');
 }
 
 /* Inter Black Italic */
@@ -193,7 +159,5 @@
   font-style: italic;
   font-weight: 900;
   src: url(./Inter-BlackItalic.woff2) format('woff2'),
-       url(./Inter-BlackItalic.woff) format('woff'),
-       url(./Inter-BlackItalic.eot) format('eot'),
-       url(./Inter-BlackItalic.truetype) format('truetype');
+       url(./Inter-BlackItalic.woff) format('woff');
 }
