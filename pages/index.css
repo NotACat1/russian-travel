@@ -44,3 +44,11 @@
 @import url("../blocks/places/__list-item-paragraph/places__list-item-paragraph.css");
 @import url("../blocks/places/__list-item-href-text/places__list-item-href-text.css");
 @import url("../blocks/places/__list-item-BlockHref/places__list-item-BlockHref.css");
+
+/* cover */
+@import url("../blocks/cover/cover.css");
+@import url("../blocks/cover/__href/cover__href.css");
+@import url("../blocks/cover/__container/cover__container.css");
+@import url("../blocks/cover/__text-container/cover__text-container.css");
+@import url("../blocks/cover/__title/cover__title.css");
+@import url("../blocks/cover/__subtitle/cover__subtitle.css");

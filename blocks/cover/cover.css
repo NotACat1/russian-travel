@@ -1,0 +1,22 @@
+.cover {
+  padding-top: 66px;
+}
+
+@media screen and (min-width: 768px) {
+  .cover {
+    padding-top: 90px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .cover {
+    padding-top: 92px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .cover {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+}

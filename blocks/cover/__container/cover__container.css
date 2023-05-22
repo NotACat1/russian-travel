@@ -1,0 +1,25 @@
+.cover__container {
+  position: relative;
+  width: 100%;
+  padding-top: calc(100% * 0.2);
+  padding-bottom: calc(100% * 0.2);
+}
+
+.cover__container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url("../../../images/Railroad-station.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  z-index: 0;
+  height: 100%;
+  width: 100%;
+  transition: opacity .5s ease-in-out;
+}
+
+.cover__container:hover::before {
+  opacity: .8;
+}
