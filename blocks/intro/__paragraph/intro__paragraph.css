@@ -7,4 +7,9 @@
   color: #FFF;
   margin-top: 0;
   margin-bottom: 33px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%; 
 }
