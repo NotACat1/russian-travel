@@ -1,0 +1,21 @@
+.footer__list-item-href {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 24px;
+  color: #FFF;
+  transition: opacity .5s ease-in-out;
+  text-decoration: none;
+}
+
+.footer__list-item-href:hover {
+  opacity: .8;
+}
+
+@media screen and (min-width: 768px) {
+  .footer__list-item-href {
+    font-size: 16px;
+    line-height: 18px;
+  }
+}

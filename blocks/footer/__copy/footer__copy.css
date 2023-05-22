@@ -1,0 +1,16 @@
+.footer__copy {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  color: #FFF;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .footer__copy {
+    line-height: 16px;
+  }
+}
