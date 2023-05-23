@@ -1,6 +1,6 @@
 .place {
   display: grid;
-  row-gap: 33px;
+  row-gap: 32px;
 }
 
 @media screen and (min-width: 768px) {
