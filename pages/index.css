@@ -7,13 +7,13 @@
 /* page */
 @import url("../blocks/page/page.css");
 
-/* NavBar */
-@import url("../blocks/NavBar/NavBar.css");
-@import url("../blocks/NavBar/__logo-href/NavBar__logo-href.css");
-@import url("../blocks/NavBar/__logo/NavBar__logo.css");
-@import url("../blocks/NavBar/__languages/NavBar__languages.css");
-@import url("../blocks/NavBar/__language/NavBar__language.css");
-@import url("../blocks/NavBar/__language/_active/NavBar__language_active.css");
+/* navbar */
+@import url("../blocks/navbar/navbar.css");
+@import url("../blocks/navbar/__logo-href/navbar__logo-href.css");
+@import url("../blocks/navbar/__logo/navbar__logo.css");
+@import url("../blocks/navbar/__languages/navbar__languages.css");
+@import url("../blocks/navbar/__language/navbar__language.css");
+@import url("../blocks/navbar/__language/_active/navbar__language_active.css");
 
 /* header */
 @import url("../blocks/header/header.css");
