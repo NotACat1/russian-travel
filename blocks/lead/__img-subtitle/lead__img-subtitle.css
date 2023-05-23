@@ -1,9 +1,12 @@
-.footer__copy {
+.lead__img-subtitle {
+  padding-left: 16px;
   font-family: 'Inter', 'Arial', sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 10px;
   line-height: 14px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
   color: #FFF;
   margin-top: 0;
   margin-bottom: 0;
@@ -15,7 +18,13 @@
 }
 
 @media screen and (min-width: 768px) {
-  .footer__copy {
-    line-height: 16px;
+  .lead__img-subtitle {
+    padding-left: 24px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .lead__img-subtitle {
+    padding-left: 0;
   }
 }

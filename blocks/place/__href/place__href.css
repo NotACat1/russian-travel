@@ -1,12 +1,12 @@
-.footer__copy {
+.place__href {
   font-family: 'Inter', 'Arial', sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
-  line-height: 14px;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
   color: #FFF;
-  margin-top: 0;
-  margin-bottom: 0;
+  width: fit-content;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
@@ -14,8 +14,6 @@
   -moz-text-size-adjust: 100%; 
 }
 
-@media screen and (min-width: 768px) {
-  .footer__copy {
-    line-height: 16px;
-  }
+.place__href:hover {
+  opacity: .8;
 }

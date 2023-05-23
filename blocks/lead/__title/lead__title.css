@@ -1,21 +1,26 @@
-.footer__copy {
+.lead__title {
+  width: min-content;
   font-family: 'Inter', 'Arial', sans-serif;
   font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 14px;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 44px;
+  text-align: center;
   color: #FFF;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 0 auto;
+  margin-bottom: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%; 
+  text-rendering: optimizeLegibility;
 }
 
 @media screen and (min-width: 768px) {
-  .footer__copy {
-    line-height: 16px;
+  .lead__title {
+    font-size: 96px;
+    line-height: 100px;
+    margin-bottom: 32px;
   }
 }

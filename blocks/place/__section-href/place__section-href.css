@@ -1,0 +1,12 @@
+.place__section-href {
+  align-self: end;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+@media screen and (min-width: 768px) {
+  .place__section-href {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
